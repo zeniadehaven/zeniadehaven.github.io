@@ -18,6 +18,9 @@ header {
   color: #fff;
   min-height: 100vh;
   display: flex;
+  background-image: url('../images/backgroundblue.jpeg');
+background-size: cover;
+background-position: center center;
 }
 main {
   display: grid;
