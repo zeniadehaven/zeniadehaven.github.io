@@ -149,15 +149,13 @@ a {
 }
 
 footer div {
-  footer div {
     height: 100%;
     font-family: 'Karla', sans-serif;
-    font-size: 14px;
+    font-size: 17px;
     display: flex;
     align-content: center;
     padding: 10px 20px;
-    color: rgba(255, 255, 255, 0.5);
-  }
+    color: rgba(255, 255, 255, 1.0);
 }
 @media all and (max-width:700px) {
   main {
