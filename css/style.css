@@ -159,7 +159,7 @@ footer div {
     align-content: center;
     padding: 10px 20px;
     color: rgba(255, 255, 255, 1.0);
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 .copyright {
   margin: auto 0;
