@@ -136,7 +136,8 @@ a {
   text-align: left;
   color: #000000;
   padding: 0px 17px 17px 17px;
-  border-style: groove;
+  border-style: ridge;
+  border-color: #A3D3F6
 }
 
 
