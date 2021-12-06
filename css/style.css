@@ -151,6 +151,10 @@ a {
   margin: auto;
 }
 
+.spc {
+  padding-top:4px;
+}
+
 footer div {
     height: 100%;
     font-family: 'Lora', sans-serif;
