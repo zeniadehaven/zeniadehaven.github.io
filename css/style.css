@@ -92,7 +92,7 @@ object-fit: cover;
     position:relative;
     top:1px;
 }
-.recipe {
+.project {
   box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 }
@@ -136,8 +136,6 @@ a {
   text-align: left;
   color: #000000;
   padding: 10px 17px 10px 17px;
-  border-style: ridge;
-  border-color: #A3D3F6
 }
 
 
